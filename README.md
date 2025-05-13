@@ -1,51 +1,121 @@
 # Hi there, I'm Pappu Kumar 👋
 
-## About Me
+## 🚀 About Me
 
-I am a passionate software developer with a keen interest in java and Data analysis. Currently, I am pursuing my Master's in Computer Applications and exploring new technologies to build innovative solutions.
+I am a passionate and results-driven Full Stack Developer currently pursuing my Master's in Computer Applications. With a solid foundation in **Java backend development** and hands-on experience building **production-grade web applications**, I focus on writing clean, scalable, and maintainable code.
 
-- 🌱 I’m currently learning TypeScript and React.
-- 👯 I’m looking to collaborate on open source projects.
+I’m particularly enthusiastic about:
+- Building **robust RESTful APIs** using Spring Boot
+- Architecting secure and modular backends
+- Designing responsive React frontends with seamless user experiences
+- Automating workflows and boosting developer productivity
 
-## Skills
+---
 
-- **Programming Languages**: Java, Python, JavaScript
-- **Frameworks/Libraries**: React
-- **Tools**: Git, Selenium
-- **Databases**: MySQL, MongoDB
+## 🔧 Tech Stack
 
-## Projects
+### 👨‍💻 Languages
+- **Java** (Core, J2EE)
+- TypeScript, JavaScript (ES6+)
+- Python (for scripting and data handling)
+- SQL (MySQL, Oracle)
 
-### DSA Library
-**Description**: A comprehensive library for Data Structures and Algorithms implemented in Python.
+### ☕ Backend Development
+- Spring Boot, Spring MVC, Spring Security
+- Hibernate, JPA
+- RESTful APIs, JWT Authentication
+- Maven, Docker
 
-- **Tech Stack**: Python
-- **GitHub Repo**: [DSA Library](https://github.com/pappukumarme9999/DSA_using_Python)
+### 🖥️ Frontend Development
+- React.js (JSX/TSX)
+- Redux Toolkit
+- Framer Motion, React Bootstrap
+- SCSS / CSS Modules
 
-## Education
+### 🛠️ Tools & Utilities
+- Git, GitHub Actions
+- IntelliJ IDEA, VSCode
+- Postman, Swagger/OpenAPI
+- MapStruct, JavaMailSender
+- Linux CLI (Basic usage)
 
-- **IMED(BVDU), Pune, India**, Master's in Computer Applications
-  - Year: 2023 - 2025
-- **Allama Iqbal College(MMHAPU), Patna, India**, Bachelor's in Computer Applications
-  - Year: 2019 - 2022
+### 🧪 Testing & Practices
+- JUnit, Unit Testing
+- Agile Methodologies, Secure Coding
+- CI/CD Pipelines (Basic awareness)
+- AOP-based logging, centralized exception handling
 
-## Certifications
+---
 
-- **Google Project Management Professional Certificate**
-- **Python for Data Science**
+## 📂 Featured Projects
 
-## Contact Me
+### 📌 **Employee Management System**  
+A complete Spring Boot backend with secure JWT-based login, modular architecture, DTO mapping, PDF/email utilities, and Oracle DB integration.
 
-- **Email**: pappukumarme9999@gmail.com
-- **LinkedIn**: [Pappu Kumar](https://www.linkedin.com/in/pappu-kumar-2178ab287)
-- **GitHub**: [Pappu Kumar](https://github.com/pappukumarme9999)
+> **Tech Stack**: Java, Spring Boot, Hibernate, JPA, JWT, MapStruct, Oracle SQL  
+> **Features**: RBAC, DTO mapping, PDF generation, email, modular service interfaces, centralized exception handling, logging, security filters  
+> **Status**: In development
 
-## GitHub Stats
+---
+
+### 📌 **Portfolio Website**  
+A fully responsive personal portfolio using React, React-Bootstrap, SCSS, and Framer Motion with theme toggle and dynamic data from a backend.
+
+> **Tech Stack**: React (Vite), TypeScript, Redux Toolkit, SCSS, Framer Motion, Axios  
+> **Features**: Dark/light themes, reusable components, smooth scroll & animation, GitHub Action deployment
+
+---
+
+### 📌 **Bug Tracking System**  
+RESTful issue tracking backend with JWT authentication and Hibernate optimization.
+
+> **Tech Stack**: Spring Boot, Hibernate, JPA, MySQL, JavaMailSender  
+> **Features**: Secure login, role-based access, email notifications, caching, clean architecture
+
+---
+
+### 📌 **DSA Library**  
+A clean and modular Python library for classic data structures and algorithms.
+
+> **Tech Stack**: Python  
+> [View Project](https://github.com/pappukumarme9999/DSA_using_Python)
+
+---
+
+## 🎓 Education
+
+- **Master’s in Computer Applications (MCA)**  
+  Bharati Vidyapeeth Deemed University, Pune  
+  *2023 – 2025*
+
+- **Bachelor’s in Computer Applications (BCA)**  
+  MMHAPU, Patna  
+  *2019 – 2022*
+
+---
+
+## 📜 Certifications
+
+- Google Project Management Professional Certificate
+- Python for Data Science
+- Spring Framework (in progress)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: pappukumarme9999@gmail.com  
+- 💼 LinkedIn: [Pappu Kumar](https://www.linkedin.com/in/pappu-kumar-2178ab287)  
+- 💻 GitHub: [@pappukumarme9999](https://github.com/pappukumarme9999)
+
+---
+
+## 📈 GitHub Stats
 
 ![Pappu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pappukumarme9999&show_icons=true&hide_border=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pappukumarme9999&layout=compact&hide_border=true&theme=radical)
 
-## GitHub Streak
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pappukumarme9999&theme=radical&hide_border=true)
