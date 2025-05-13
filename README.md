@@ -47,6 +47,18 @@ I’m particularly enthusiastic about:
 
 ---
 
+## 💼 Professional Experience
+
+### 🏢 Full Stack – Software Developer Intern  
+**Ashwamedh Motors Pvt. Ltd.** — *December 2024 – Present*
+
+- Automated tender data ingestion pipeline using **Python** and **REST APIs**, streamlining the document processing workflow.
+- Designed and implemented a secure **role-based access control (RBAC)** system with hierarchical role enforcement (Super Admin, Admin, Sub-Admin).
+- Applied **secure coding practices**, optimized SQL queries, and ensured code quality with **JUnit-based unit tests**.
+- Collaborated with cross-functional Agile teams including QA, business analysts, and product stakeholders in iterative sprints.
+
+---
+
 ## 📂 Featured Projects
 
 ### 📌 **Employee Management System**  
