@@ -168,9 +168,9 @@ A collection of lightweight browser-based utility applications focused on clean 
 
 ![Pappu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkr-9\&show_icons=true\&hide_border=true\&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pappukumarme9999\&theme=radical\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pkr-9\&theme=radical\&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pappukumarme9999\&theme=react\&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pkr-9\&theme=react\&hide_border=true)
 
 ---
 
